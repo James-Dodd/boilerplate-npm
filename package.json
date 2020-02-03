@@ -1,7 +1,5 @@
 {
-	"author": {
-		"author": "James Dodd"
-	},
+	"author": "hello",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
